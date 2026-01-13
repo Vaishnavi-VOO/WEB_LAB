@@ -65,7 +65,7 @@ h3~p{
    font-family: 'Georgia', serif;
    color: #555;
 }
-/* Grouping Selector
+/* Grouping Selector */
 time, img, span {
     display: block;
     margin: 15px 0;
